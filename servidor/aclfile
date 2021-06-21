@@ -1,0 +1,5 @@
+user sensor-temperatura
+topic readwrite lab/temperatura
+
+user servidor-temperatura
+topic read lab/temperatura
