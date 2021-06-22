@@ -14,7 +14,9 @@ Ejecución de scripts en el directorio /home/cyber-iot-1/
 
 # Controlador RYU y Aplicación SDN
 Máquina virtual Controlador
+
 Usuario: controlador
+
 Contraseña: controlador
 
 Ejecución de scripts en el directorio /home/controlador/
@@ -25,7 +27,9 @@ Ejecución de scripts en el directorio /home/controlador/
 
 # Gateway de acceso a la red SDN
 Máquina virtual Gateway
+
 Usuario: gateway
+
 Contraseña: gateway
 
 Ejecución de scripts en el directorio /home/gateway/
@@ -34,7 +38,9 @@ Ejecución de scripts en el directorio /home/gateway/
 
 # Dispositivo IoT
 Raspberry Pi 4
+
 Usuario: pi
+
 Contraseña: *
 
 Ejecución de scripts en el directorio /home/pi/
@@ -44,7 +50,9 @@ Ejecución de scripts en el directorio /home/pi/
 
 # Servidor y Aplicaciones IoT
 Máquina virtual Servidor IoT
+
 Usuario: servidor-iot
+
 Contraseña: servidor
 
 Ejecución de scripts en el directorio /home/servidor-iot/
