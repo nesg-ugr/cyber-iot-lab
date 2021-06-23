@@ -4,58 +4,58 @@ A simple IoT laboratory for security assessment.
 # OvS switch
 Workstation Cyber IoT 1
 
-Usuario: cyber-iot-1
+User: cyber-iot-1
 
-Contraseña: *
+Password: *
 
-Ejecución de scripts en el directorio /home/cyber-iot-1/
+Scripts execution in directory /home/cyber-iot-1/
 1. sudo sh switch.sh
 2. sudo sh reglas.sh
 
-# Controlador RYU y Aplicación SDN
-Máquina virtual Controlador
+# RYU Controller RYU and SDN App
+Virtual machine Controlador
 
-Usuario: controlador
+User: controlador
 
-Contraseña: controlador
+Password: controlador
 
-Ejecución de scripts en el directorio /home/controlador/
+Scripts execution in directory /home/controlador/
 1. sh inicio.sh
 2. sh trafico.sh
 3. sh inicio-sql.sh
 4. sudo sh inicio-grafana.sh
 
-# Gateway de acceso a la red SDN
-Máquina virtual Gateway
+# Access Gateway to SDN
+Virtual machine Gateway
 
-Usuario: gateway
+User: gateway
 
-Contraseña: gateway
+Password: gateway
 
-Ejecución de scripts en el directorio /home/gateway/
+Scripts execution in directory /home/gateway/
 1. sudo su
 2. sh inicio.sh
 
-# Dispositivo IoT
+# IoT Device
 Raspberry Pi 4
 
-Usuario: pi
+User: pi
 
-Contraseña: *
+Password: *
 
-Ejecución de scripts en el directorio /home/pi/
+Scripts execution in directory /home/pi/
 1. sudo sh inicio.sh
 2. cat temperatura.sh / cat nuevo-broker.sh
-3. Copiar y pegar de cat
+3. Copy and paste of cat
 
-# Servidor y Aplicaciones IoT
-Máquina virtual Servidor IoT
+# Server and IoT Apps
+Virtual machine Servidor IoT
 
-Usuario: servidor-iot
+User: servidor-iot
 
-Contraseña: servidor
+Password: servidor
 
-Ejecución de scripts en el directorio /home/servidor-iot/
+Scripts execution in directory /home/servidor-iot/
 1. sudo su
 2. sh inicio.sh / sh nuevo-broker.sh
 3. sh inicio-sql.sh (sin superusuario)
